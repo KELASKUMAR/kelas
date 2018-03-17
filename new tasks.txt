@@ -7,6 +7,4 @@ de5581c removed
 1f74c94 new passwd file
 22f3860 removed passwd file
 498805b rename resume to biodata
-6977c85 new files
-7b39cea a new file add
-1d33c22 new resume.txt
+
